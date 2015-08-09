@@ -1,0 +1,29 @@
+APCS is all a single "unit"
+C;AP Computer Science
+U1;Unit 1;The Whole Course
+L1;4;Intro to OOP
+L2;4;Object Oriented Programming
+L3;5;Primitive Data Types
+L4;5;Object Behavior
+L5;5;Designing and Using Classes
+L6;5;Libraries and APIs
+L7;5;Simple I/O
+LG1;3;Gridworld Part 1
+L8;5;Control Structures
+L9;5;Recursion
+LT1;2;Test Practice Questions part 1
+L10;5;Strings
+L11;5;Inheritance
+L12;5;Iterations
+LG2;5;Gridworld Part 2
+L13;5;Exceptions and File I/O
+L14;3;Boolean Algebra and Loop Boundaries
+L15;10;ArrayList
+L16;3;Single Dimension Arrays
+L17;10;Quadratic Sorting Algorithms
+L18;5;Merge and MergeSort
+L19;7;Sequential and Binary Searches
+L20;7;Inheritance, Polymorphism and Abstract Classes
+L21;3;Number Systems
+L22;2;General Computer Knowledge
+L23;10;Two-Dimensional Arrays

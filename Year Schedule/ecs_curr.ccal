@@ -1,0 +1,79 @@
+U1;HCI;Human Computer Interaction
+L1;2;Explore Concepts of Computer
+L2;2;Demystify the Computer
+L3;3;Explore WWW and Search Engines
+L4;2;Implications of data on society
+L5;1;Tell a story with data
+L6;4;Explore data visualization
+L7;2;Introduce the Concept of a Computer Program
+L8;3;Explore the idea of Machine Intelligence
+U2;PS;Problem Solving
+L1;2;Introduce Data Collection
+L2;1;Introduce 4 Steps
+L3;3;Apply Problem Solving Process
+L4;3;Reinforce 4 Steps
+L5;3;Count in Binary
+L6;2;Introduce Linear and Binary Search
+L7;2;Explore Sorting
+L8;1;Minimal Spanning Trees
+L9;4;Final Projects and Presentations
+U3;WD;Web Design
+L1;2;Social
+L2;2;Basic HTML
+L3;1;HTML Formatting
+L4;2;Image Editing
+L5;3;Basic CSS
+L6;3;Separating Style and Content
+L7;1;Hyperlinks
+L8;2;Page Layout
+L9;3;Design Elements
+L10;2;Enhancements
+L11;4;Final Projects
+U4;PR;Programming
+L1;1;Introduction
+L2;2;Simple Program
+L3;1;Dialog between Sprites
+L4;2;Moving Sprites
+L5;2;Event Driven Programming
+L6;1;Broadcasting
+L7;4;Scratch Stories
+L8;1;Variables
+L9;1;Conditionals
+L10;2;Boolean and randomness
+L11;1;Rock Paper Scissors
+L12;1;Timer
+L13;4;Timing Game
+L14;1;2 Game Types
+L15;1;Explain Final Project
+L16;3;Write Project Programs
+L17;1;Complete Project
+L18;1;Present Projects
+U5;CDA;Computing and Data Analysis
+L1;3;Reintroduction to Data
+L2;2;Explore research questions
+L3;2;Choose Campaigns for Data Collection
+L4;1;Data Check-in
+L5;4;Create Maps
+L6;1;Create Maps with Student Data
+L7;3;Plotting
+L8;1;Create Plots
+L9;3;Review Statistics
+L10;1;Identify Statistical Data
+L11;3;Filter Data
+L12;1;Analyze Text in Data
+L13;2;Finalize Analysis
+L14;2;Develop Presentation
+L15;1;Presentation
+U6;ROB;Robotics
+L1;1;What is a Robot
+L2;2;Evaluate Robots
+L3;1;Set up NXT Kit
+L4;1;Build Robot Base
+L5;2;Introduce NXT Brick
+L6;2;Introduce NXT Software
+L7;4;Programming Tutorials
+L8;1;Tic-tac-toe
+L9;1;RoboTic-Tac-Toe tournament
+L10;3;Dancing Robot
+L11;4;Rescue Robot
+L12;10;Final projects

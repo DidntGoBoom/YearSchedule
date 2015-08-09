@@ -1,0 +1,74 @@
+C;APLew
+U0;Intro to Programming
+L0;1;Introduction/This is a Computer
+L1;1;Intro to Scratch
+L2;1;Scratch Fundamentals: Iterations
+L3;1;Scratch Fundamentals: Conditionals and Randomness
+L4;1;Java Fundamentals: The Shape Program
+U1;Fundamentals;
+L0;1;Computing Fundamentals
+L1;1;If Statements;1;
+L2;1;if-else statements;1;
+L3;1;for and for-each loops;1;
+L4;1;Comparing objects;1;
+L5;2;Arrays and For Loops;1;
+L6;1;Random Numbers;1;
+X;Exam 1;Test stuff
+S1;Magpie Chatbot
+L1;2;Intro to Magpie
+L2;2;Magpie Keyword Detection
+L3;2;Better Keyword Detection
+L4;2;Compound Keyphrases
+L5;1;Incorporating Arrays
+U2;Class Design;
+L1;3;Class Design: the Big 3;1;
+L2;2;Multi Argument Constructors;1;
+L3;2;JOptionPane Message Dialog;1;
+L4;3;Formatting output;1;
+X;Exam 2;Test stuff
+U3;Class Methods;
+L1;3;getters and setters;1;
+L2;3;Processor methods;1;
+L3;3;String manipulation;1;
+L4;3;Implementing Comparisons;1;
+X;Exam 3;Test stuff
+U4;2D Arrays;
+L1;3;2D Arrays
+L2;2;2D Arrays and Nested For Loops
+L3;2;2D Arrays and For Each Loops
+X;Exam 4;Test stuff
+S2;Picture Lab
+L1;2;Intro to Digital Pictures Activities 1-3
+L2;2;Modifying a Picture
+L3;3;Mirroring a Picture Activities 6-7
+L4;2;Creating a Collage
+L5;2;Simple edge detection
+P1;Fall Project
+L1;2;Fall Project Intro
+U5;Class Composition;
+L1;3;The Class Composition Model
+L2;3;ArrayLists with For and For-Each Loops
+L3;3;ArrayList Methods
+L4;3;ArrayList "For Loop Removal Problem"
+L5;3;MyPod with Arrays
+L6;3;MyPod with ArrayLists
+L7;3;The toString() Method
+U6;AP FRQs;
+L1;3;the "this" keyword
+U7;Inheritance and Abstract Classes;
+L1;3;The Inheritance Model
+L2;3;Why do we need Inheritance
+L3;3;Creating an Inheritance Tree/Hierarchy
+L4;3;Creating Abstract Classes and Methods
+L5;3;Pets: using Extends, this, super() and super.method()
+U8;Interfaces;
+L1;3;What is an "interface"
+L2;3;The Comparable Interface
+U9;Big Spring Project;
+L1;1;Big Spring
+U10;AP Test Prep - MC;
+L1;1;Big Spring
+U11;Battle Royale;
+L1;1;Big Spring
+U12;Culminating Project;
+L1;1;Big Spring
